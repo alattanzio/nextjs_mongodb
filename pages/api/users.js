@@ -1,7 +1,6 @@
 // Import Dependencies
 const url = require('url')
 const MongoClient = require('mongodb').MongoClient
-const cors = require('cors');
 
 // Create cached connection variable
 let cachedDb = null

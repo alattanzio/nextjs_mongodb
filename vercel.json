@@ -1,0 +1,7 @@
+{
+  "name": "ant-mongodb-api",
+  "version": 2,
+  "env": {
+    "MONGODB_URI": "@ant-mongodb-uri"
+  }
+}

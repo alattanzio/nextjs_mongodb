@@ -1,7 +1,6 @@
 // Import Dependencies
 const url = require('url')
 const MongoClient = require('mongodb').MongoClient
-import NextCors from 'nextjs-cors';
 
 // Create cached connection variable
 let cachedDb = null
